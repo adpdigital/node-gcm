@@ -43,8 +43,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/ToothlessGear/node-gcm.git",
-    "web": "http://github.com/ToothlessGear/node-gcm"
+    "url": "https://github.com/adpdigital/node-gcm.git",
+    "web": "https://github.com/adpdigital/node-gcm"
   },
   "keywords": [
     "google",
@@ -84,9 +84,9 @@
     "node": ">= 4"
   },
   "bugs": {
-    "url": "https://github.com/ToothlessGear/node-gcm/issues"
+    "url": "https://github.com/adpdigital/node-gcm/issues"
   },
-  "homepage": "https://github.com/ToothlessGear/node-gcm",
+  "homepage": "https://github.com/adpdigital/node-gcm",
   "directories": {
     "test": "test"
   },
